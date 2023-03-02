@@ -1,0 +1,15 @@
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\bin\Debug\net6.0\BankingSystemOOPDay2.exe
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\bin\Debug\net6.0\BankingSystemOOPDay2.deps.json
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\bin\Debug\net6.0\BankingSystemOOPDay2.runtimeconfig.json
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\bin\Debug\net6.0\BankingSystemOOPDay2.dll
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\bin\Debug\net6.0\BankingSystemOOPDay2.pdb
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.csproj.AssemblyReference.cache
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.AssemblyInfoInputs.cache
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.AssemblyInfo.cs
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.csproj.CoreCompileInputs.cache
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.dll
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\refint\BankingSystemOOPDay2.dll
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.pdb
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\BankingSystemOOPDay2.genruntimeconfig.cache
+C:\Users\amein\source\repos\BankingSystemOOPDay2\BankingSystemOOPDay2\obj\Debug\net6.0\ref\BankingSystemOOPDay2.dll
